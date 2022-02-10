@@ -47,7 +47,7 @@
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
     "mockjs": "^1.0.1-beta3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "sortablejs": "^1.10.1",
     "svg-sprite-loader": "^4.1.3",
